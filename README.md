@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nidhik5555
 - 👀 Data Science Geek
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate and contribute on AI,ML and DL projects
+- 💞️ I’m looking to collaborate and contribute on ML, NLP, DL and GEN-AI projects
 - 📫 Reach me https://www.linkedin.com/in/nidhi-khandelwal-970860166 || nidhik5555@gmail.com 
 
 <!---
